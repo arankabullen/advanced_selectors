@@ -1,3 +1,13 @@
+*{
+
+}
+
+a:any-link{
+    color:green;
+    text-decoration-color: aqua;
+    text-decoration-line: line-through;
+}
+
 a[title]{
     color: red
 }
@@ -5,3 +15,6 @@ a[href="https://nellysugu.com]"{
     color: purple;
 }
 
+a{
+    color: black
+}
